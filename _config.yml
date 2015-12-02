@@ -1,0 +1,24 @@
+# Site settings
+title: Cody Rogers Development
+email: croge32@gmail.com
+description: This is the site description
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://codyrogersdev.com" # the base hostname & protocol for your site
+
+# User setting
+owner: Cody Rogers
+email: croge32@gmail.com
+facebook_username: cody.rogers.737
+twitter_username: codyadam92
+github_username: croge32
+address:
+  - line: 3030 July St, Apt 330, Baton Rouge, LA 70808
+telephone: 225-281-8911
+copyright:
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
