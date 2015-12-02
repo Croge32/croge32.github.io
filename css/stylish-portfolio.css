@@ -22,13 +22,6 @@ body {
 }
 
 .text-vertical-center {
-    /*color: #fff;*/
-    /*width: 55em;*/
-    /*padding: 1em;*/
-    /*position: relative;*/
-    /*margin-top: 10em;*/
-    /*margin-left: 45%;*/
-    /*line-height: .1em;*/
     display: table-cell;
     text-align: center;
     vertical-align: middle;
@@ -37,7 +30,7 @@ body {
 .text-vertical-center h1 {
     margin: 1px;
     padding: 1px;
-    font-size: 4.5em;
+    font-size: 3.5em;
     font-weight: 700;
 }
 
